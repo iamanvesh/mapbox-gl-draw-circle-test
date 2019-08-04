@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mapbox-gl-draw-circle-test/precache-manifest.0df6913ed912aaae012c2df810786b81.js"
+  "/mapbox-gl-draw-circle-test/precache-manifest.4fe70f1276d47abc9a31885ea6612d8c.js"
 );
 
 self.addEventListener('message', (event) => {
