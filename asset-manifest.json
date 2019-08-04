@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/iamanvesh/mapbox-gl-draw-circle-test/static/css/main.2cce8147.chunk.css",
-    "main.js": "/iamanvesh/mapbox-gl-draw-circle-test/static/js/main.ba8c1910.chunk.js",
-    "main.js.map": "/iamanvesh/mapbox-gl-draw-circle-test/static/js/main.ba8c1910.chunk.js.map",
-    "runtime~main.js": "/iamanvesh/mapbox-gl-draw-circle-test/static/js/runtime~main.a417ad2f.js",
-    "runtime~main.js.map": "/iamanvesh/mapbox-gl-draw-circle-test/static/js/runtime~main.a417ad2f.js.map",
-    "static/css/2.e4542562.chunk.css": "/iamanvesh/mapbox-gl-draw-circle-test/static/css/2.e4542562.chunk.css",
-    "static/js/2.b42c2229.chunk.js": "/iamanvesh/mapbox-gl-draw-circle-test/static/js/2.b42c2229.chunk.js",
-    "static/js/2.b42c2229.chunk.js.map": "/iamanvesh/mapbox-gl-draw-circle-test/static/js/2.b42c2229.chunk.js.map",
-    "index.html": "/iamanvesh/mapbox-gl-draw-circle-test/index.html",
-    "precache-manifest.59e55ec02f4729f9d9e103d257c6c21b.js": "/iamanvesh/mapbox-gl-draw-circle-test/precache-manifest.59e55ec02f4729f9d9e103d257c6c21b.js",
-    "service-worker.js": "/iamanvesh/mapbox-gl-draw-circle-test/service-worker.js",
-    "static/css/2.e4542562.chunk.css.map": "/iamanvesh/mapbox-gl-draw-circle-test/static/css/2.e4542562.chunk.css.map",
-    "static/css/main.2cce8147.chunk.css.map": "/iamanvesh/mapbox-gl-draw-circle-test/static/css/main.2cce8147.chunk.css.map"
+    "main.css": "/mapbox-gl-draw-circle-test/static/css/main.2cce8147.chunk.css",
+    "main.js": "/mapbox-gl-draw-circle-test/static/js/main.df7c1230.chunk.js",
+    "main.js.map": "/mapbox-gl-draw-circle-test/static/js/main.df7c1230.chunk.js.map",
+    "runtime~main.js": "/mapbox-gl-draw-circle-test/static/js/runtime~main.f83f99bd.js",
+    "runtime~main.js.map": "/mapbox-gl-draw-circle-test/static/js/runtime~main.f83f99bd.js.map",
+    "static/css/2.e4542562.chunk.css": "/mapbox-gl-draw-circle-test/static/css/2.e4542562.chunk.css",
+    "static/js/2.b42c2229.chunk.js": "/mapbox-gl-draw-circle-test/static/js/2.b42c2229.chunk.js",
+    "static/js/2.b42c2229.chunk.js.map": "/mapbox-gl-draw-circle-test/static/js/2.b42c2229.chunk.js.map",
+    "index.html": "/mapbox-gl-draw-circle-test/index.html",
+    "precache-manifest.0df6913ed912aaae012c2df810786b81.js": "/mapbox-gl-draw-circle-test/precache-manifest.0df6913ed912aaae012c2df810786b81.js",
+    "service-worker.js": "/mapbox-gl-draw-circle-test/service-worker.js",
+    "static/css/2.e4542562.chunk.css.map": "/mapbox-gl-draw-circle-test/static/css/2.e4542562.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/mapbox-gl-draw-circle-test/static/css/main.2cce8147.chunk.css.map"
   }
 }
